@@ -6,6 +6,9 @@ A comprehensive Power BI dashboard designed to analyze hotel booking trends, cus
 
 ### 🖼️ Dashboard Preview
 
+
+![Hotel Booking Analysis Dashboard](https://raw.githubusercontent.com/Jaideep-2712/-Hotel-Booking-Analysis-Dashboard/main/Hotel%20Booking%20Analysis%20Dashboard.png)
+
 ---
 
 ## 🔍 Overview
